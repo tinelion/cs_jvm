@@ -1,0 +1,7 @@
+E:\projects\csjvm\CsJVM\bin\Debug\CsJVM.exe.config
+E:\projects\csjvm\CsJVM\bin\Debug\CsJVM.exe
+E:\projects\csjvm\CsJVM\bin\Debug\CsJVM.pdb
+E:\projects\csjvm\CsJVM\obj\Debug\CsJVM.csprojAssemblyReference.cache
+E:\projects\csjvm\CsJVM\obj\Debug\CsJVM.csproj.CoreCompileInputs.cache
+E:\projects\csjvm\CsJVM\obj\Debug\CsJVM.exe
+E:\projects\csjvm\CsJVM\obj\Debug\CsJVM.pdb
